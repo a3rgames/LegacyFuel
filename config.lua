@@ -11,6 +11,9 @@ Config.stock = {
 Config.Managefuel = false -- enable disable managefuel, disable if you only want gas station function
 Config.FuelDecor = "_FUEL_LEVEL"
 
+-- Want to use the HUD? Turn this to true.
+Config.EnableHUD = true
+
 Config.DisableKeys = { 0,22,23,24,29,30,31,37,44,56,82,140,166,167,168,170,288,289,311,323 }
 
 Config.PumpModels = {
